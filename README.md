@@ -4,7 +4,7 @@
 
 Computer Science Student · Builder · Tech & Gaming Enthusiast
 
-[Projects](https://github.com/Epinorr?tab=repositories) · [Contact](https://github.com/Epinorr)
+[Projects](https://github.com/Epinorr?tab=repositories) · [Contact](https://t.me/Beta_us3r)
 
 </div>
 
