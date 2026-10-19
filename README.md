@@ -2,8 +2,6 @@
 
 <img src="assets/epinor-banner.png" alt="EPINOR — Ideas into useful tools" width="100%">
 
-### Turning ideas into useful tools.
-
 Computer Science Student · Builder · Tech & Gaming Enthusiast
 
 [Projects](https://github.com/Epinorr?tab=repositories) · [Contact](https://github.com/Epinorr)
@@ -29,16 +27,3 @@ My goal is simple: **make things easier, more useful, and more enjoyable for oth
   A PS5 payload focused on blocking YouTube and unwanted updates.
 
 More experiments and projects can be found in my repositories.
-
----
-
-<div align="center">
-
-*Small ideas. Useful creations.*
-
-If you find my work helpful, you're welcome to support my projects.
-
-<!-- Add a support link below when ready -->
-[Support my work](https://donofa.ir/epinor)
-
-</div>
