@@ -1,74 +1,44 @@
-<!--
-EPINOR — GitHub Profile README
-Create a public repository named exactly: Epinorr
-Place this file at the repository root as README.md.
-Before publishing, replace YOUR_DONATION_LINK below with your real donation/support page URL.
--->
-
 <div align="center">
 
-# Hey, I'm EPINOR 👋
+<img src="assets/epinor-banner.png" alt="EPINOR — Ideas into useful tools" width="100%">
 
-### Computer Science Student · Developer of Practical Tools
+### Turning ideas into useful tools.
 
-I build idea-driven projects that make everyday tasks simpler, solve small but meaningful problems, and make technology more useful.
+Computer Science Student · Builder · Tech & Gaming Enthusiast
 
-[![GitHub](https://img.shields.io/badge/GitHub-Epinorr-181717?style=flat-square&logo=github)](https://github.com/Epinorr)
-[![Focus](https://img.shields.io/badge/Focus-Practical%20Software-2ea44f?style=flat-square)](#)
+[Projects](https://github.com/Epinorr?tab=repositories) · [Contact](https://github.com/Epinorr)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-- 🎓 I'm a **Computer Science student** who enjoys turning ideas and real needs into useful tools.
-- 🛠️ I build projects based on problems I notice, ideas I want to explore, or workflows I think could be simpler.
-- 🤖 I use **AI-assisted development** when it helps me move faster, while focusing on understanding, testing, and improving the final result.
-- 🎮 I'm interested in **technology, gaming, and content creation**.
-- 🎯 My goal is simple: create practical things that make life a little easier for other people.
+I'm EPINOR, a Computer Science student interested in technology, gaming, and content creation.
 
-## 🚀 Selected Projects
+I enjoy turning ideas and everyday problems into practical tools and creative projects. I use AI-assisted development as part of my workflow to explore ideas, build solutions, and bring projects to life.
 
-### [PS5 Account Activator](https://github.com/Epinorr/ps5-account-activator)
-An all-in-one PS5 payload that combines offline account activation with NP Fake Sign-in in a single execution.
+My goal is simple: **make things easier, more useful, and more enjoyable for others.**
 
-### [YT-Blocker](https://github.com/Epinorr/y2jb-update-blocker)
-A PS5 payload that modifies YouTube application metadata in an attempt to prevent updates on supported setups.
+## Featured Projects
 
-### [NetScope](https://github.com/Epinorr/netscope)
-A Windows-first desktop utility for diagnosing network connectivity issues, explaining likely causes, and running user-confirmed repair actions.
+- **[PS5 Account Activator](https://github.com/Epinorr/ps5-account-activator)**  
+  A PS5 payload combining offline account activation with NP Fake Signin.
 
-### [Game Cover Downloader](https://github.com/Epinorr/game-cover-downloader)
-A Python tool that downloads square game artwork from SteamGridDB using simple text-based game lists, with matching, retry, and duplicate-handling features.
+- **[YT-Blocker](https://github.com/Epinorr/y2jb-update-blocker)**  
+  A PS5 payload focused on blocking YouTube and unwanted updates.
 
-## 🧰 Technologies & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white" alt="PySide6" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
-</p>
-
-I keep learning as I build. My projects and the tools I use evolve over time, so this profile reflects an ongoing journey rather than a finished checklist.
-
-## 💬 Get in Touch
-
-Have feedback, an idea, or a question about one of my projects? Feel free to open an issue in the relevant repository or connect through GitHub.
-
-## ☕ Support My Work
-
-If one of my projects has been useful to you and you'd like to support future work, you can do so here — completely optional and always appreciated.
-
-[**Support EPINOR**](https://donofa.ir/epinor)
+More experiments and projects can be found in my repositories.
 
 ---
 
 <div align="center">
 
-*Built with curiosity, practical ideas, and a little help from AI.*
+*Small ideas. Useful creations.*
+
+If you find my work helpful, you're welcome to support my projects.
+
+<!-- Add a support link below when ready -->
+[Support my work](https://donofa.ir/epinor)
 
 </div>
