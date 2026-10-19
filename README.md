@@ -4,7 +4,21 @@
 
 Computer Science Student · Builder · Tech & Gaming Enthusiast
 
-[Projects](https://github.com/Epinorr?tab=repositories) · [Contact](https://t.me/Beta_us3r)
+<p align="center">
+  <a href="https://github.com/Epinorr?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Projects"
+    />
+  </a>
+  &nbsp;
+  <a href="https://t.me/Beta_us3r">
+    <img
+      src="https://img.shields.io/badge/Contact-229ED9?style=for-the-badge&logo=telegram&logoColor=white"
+      alt="Contact on Telegram"
+    />
+  </a>
+</p>
 
 </div>
 
